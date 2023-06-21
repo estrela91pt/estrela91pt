@@ -1,4 +1,4 @@
-### Hi, I'm Gonçalo. I am the CEO of the roleplay server "LSRP"
+### Hi, I'm Gonçalo. I am the CEO of the roleplay server "Los Santos Roleplay"
 
 
 <div align="center">
