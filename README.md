@@ -1,5 +1,9 @@
-### Hi, I'm Gonçalo. I am the CEO of the roleplay server "Los Santos Roleplay"
+### Hi, I'm Gonçalo.
 
+Developer of custom FiveM scripts | QBCore & ESX | Optimized and unique systems
+Hi! I'm Gonçalo, a developer focused on creating high-quality resources for FiveM servers. Here you'll find optimized scripts, unique systems, and useful tools for your community.
+📦 Selling via Tebex | 📬 Support via Discord
+🚧 Always working on new and exciting projects!
 
 <div align="center">
   <a href="https://github.com/estrela91pt">
